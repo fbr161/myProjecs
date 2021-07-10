@@ -1,0 +1,16 @@
+site_name: My Docs
+site_url: https://example.com/
+
+nav:
+    - 'Home': 'index.md'
+    - 'Bus Koi': 'buskoi.md'
+    - 'Brick Game': 'brickGame.md' 
+    - 'Recycle Bin': 'recycleBin.md'
+
+theme:
+  name: material
+
+
+markdown_extensions:
+  - attr_list
+  - admonition
